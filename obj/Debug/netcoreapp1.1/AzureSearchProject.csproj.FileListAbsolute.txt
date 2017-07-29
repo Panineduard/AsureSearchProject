@@ -1,0 +1,8 @@
+D:\VS Projects\AzureSearchProject\bin\Debug\netcoreapp1.1\AzureSearchProject.deps.json
+D:\VS Projects\AzureSearchProject\bin\Debug\netcoreapp1.1\AzureSearchProject.runtimeconfig.json
+D:\VS Projects\AzureSearchProject\bin\Debug\netcoreapp1.1\AzureSearchProject.runtimeconfig.dev.json
+D:\VS Projects\AzureSearchProject\bin\Debug\netcoreapp1.1\AzureSearchProject.dll
+D:\VS Projects\AzureSearchProject\bin\Debug\netcoreapp1.1\AzureSearchProject.pdb
+D:\VS Projects\AzureSearchProject\obj\Debug\netcoreapp1.1\AzureSearchProject.AssemblyInfo.cs
+D:\VS Projects\AzureSearchProject\obj\Debug\netcoreapp1.1\AzureSearchProject.dll
+D:\VS Projects\AzureSearchProject\obj\Debug\netcoreapp1.1\AzureSearchProject.pdb
